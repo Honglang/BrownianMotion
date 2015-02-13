@@ -16,3 +16,5 @@ To simulate, type
 ```
 ./brmotion
 ```
+
+Use [summarize.py](summarize.py) to visualize some output.
